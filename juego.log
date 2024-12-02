@@ -1,0 +1,88 @@
+04:23:44 [INFO] 
+Cartas:
+04:23:44 [INFO] 9♡ A♧ J♤ J♡ T♧ 4♧ 5♧ T♡ | 1
+04:23:44 [INFO] 7♧ 4♢ 2♧ 2♡ 7♢ 4♡ T♤ 9♤ | 2
+04:23:44 [INFO] J♢ 2♢ 3♢ 3♤ 6♡ 7♡ 8♧ 5♤ | 3
+04:23:44 [INFO] Q♢ 5♡ 8♤ K♤ Q♡ 9♢ 3♧ 6♢ | 4
+04:23:44 [INFO] 8♡ 8♢ J♧ K♧ 5♢ 9♧ 7♤ A♡ | 5
+04:23:44 [INFO] 6♤ A♢ Q♤ 3♡ A♤ 4♤ K♢ T♢ | 6
+04:23:44 [INFO] 1| 2| 3| 4| 5| 6| 7| 8| -> columnas
+04:23:44 [INFO] 
+Cartas faltantes:
+04:23:44 [INFO] 1: Q♧
+04:23:44 [INFO] 2: 2♤
+04:23:44 [INFO] 3: 6♧
+04:23:44 [INFO] 4: K♡
+04:23:45 [INFO] Has seleccionado la columna 2 para la carta 1 :O
+04:23:48 [INFO] Has seleccionado la columna 3 para la carta 2 :O
+04:23:48 [WARN] Parece que las cartas no coinciden :/ Intentalo de nuevo :)
+04:23:48 [INFO] 
+Cartas:
+04:23:48 [INFO] 9♡ A♧ J♤ J♡ T♧ 4♧ 5♧ T♡ | 1
+04:23:48 [INFO] 7♧ 4♢ 2♧ 2♡ 7♢ 4♡ T♤ 9♤ | 2
+04:23:48 [INFO] J♢ 2♢ 3♢ 3♤ 6♡ 7♡ 8♧ 5♤ | 3
+04:23:48 [INFO] Q♢ 5♡ 8♤ K♤ Q♡ 9♢ 3♧ 6♢ | 4
+04:23:48 [INFO] 8♡ 8♢ J♧ K♧ 5♢ 9♧ 7♤ A♡ | 5
+04:23:48 [INFO] 6♤ A♢ Q♤ 3♡ A♤ 4♤ K♢ T♢ | 6
+04:23:48 [INFO] 1| 2| 3| 4| 5| 6| 7| 8| -> columnas
+04:23:48 [INFO] 
+Cartas faltantes:
+04:23:48 [INFO] 1: Q♧
+04:23:48 [INFO] 2: 2♤
+04:23:48 [INFO] 3: 6♧
+04:23:48 [INFO] 4: K♡
+04:23:48 [INFO] Has seleccionado la columna 4 para la carta 1 :O
+04:23:49 [INFO] Has seleccionado la columna 5 para la carta 2 :O
+04:23:49 [WARN] Parece que las cartas no coinciden :/ Intentalo de nuevo :)
+04:23:49 [INFO] 
+Cartas:
+04:23:49 [INFO] 9♡ A♧ J♤ J♡ T♧ 4♧ 5♧ T♡ | 1
+04:23:49 [INFO] 7♧ 4♢ 2♧ 2♡ 7♢ 4♡ T♤ 9♤ | 2
+04:23:49 [INFO] J♢ 2♢ 3♢ 3♤ 6♡ 7♡ 8♧ 5♤ | 3
+04:23:49 [INFO] Q♢ 5♡ 8♤ K♤ Q♡ 9♢ 3♧ 6♢ | 4
+04:23:49 [INFO] 8♡ 8♢ J♧ K♧ 5♢ 9♧ 7♤ A♡ | 5
+04:23:49 [INFO] 6♤ A♢ Q♤ 3♡ A♤ 4♤ K♢ T♢ | 6
+04:23:49 [INFO] 1| 2| 3| 4| 5| 6| 7| 8| -> columnas
+04:23:49 [INFO] 
+Cartas faltantes:
+04:23:49 [INFO] 1: Q♧
+04:23:49 [INFO] 2: 2♤
+04:23:49 [INFO] 3: 6♧
+04:23:49 [INFO] 4: K♡
+04:23:49 [INFO] Has seleccionado la columna 6 para la carta 1 :O
+04:23:50 [INFO] Has seleccionado la columna 6 para la carta 2 :O
+04:23:50 [WARN] Posicion no valida :P Intentalo de nuevo :)
+04:23:50 [INFO] 
+Cartas:
+04:23:50 [INFO] 9♡ A♧ J♤ J♡ T♧ 4♧ 5♧ T♡ | 1
+04:23:50 [INFO] 7♧ 4♢ 2♧ 2♡ 7♢ 4♡ T♤ 9♤ | 2
+04:23:50 [INFO] J♢ 2♢ 3♢ 3♤ 6♡ 7♡ 8♧ 5♤ | 3
+04:23:50 [INFO] Q♢ 5♡ 8♤ K♤ Q♡ 9♢ 3♧ 6♢ | 4
+04:23:50 [INFO] 8♡ 8♢ J♧ K♧ 5♢ 9♧ 7♤ A♡ | 5
+04:23:50 [INFO] 6♤ A♢ Q♤ 3♡ A♤ 4♤ K♢ T♢ | 6
+04:23:50 [INFO] 1| 2| 3| 4| 5| 6| 7| 8| -> columnas
+04:23:50 [INFO] 
+Cartas faltantes:
+04:23:50 [INFO] 1: Q♧
+04:23:50 [INFO] 2: 2♤
+04:23:50 [INFO] 3: 6♧
+04:23:50 [INFO] 4: K♡
+04:23:50 [INFO] Has seleccionado la columna 4 para la carta 1 :O
+04:23:50 [INFO] Has seleccionado la columna 3 para la carta 2 :O
+04:23:50 [WARN] Parece que las cartas no coinciden :/ Intentalo de nuevo :)
+04:23:50 [INFO] 
+Cartas:
+04:23:50 [INFO] 9♡ A♧ J♤ J♡ T♧ 4♧ 5♧ T♡ | 1
+04:23:50 [INFO] 7♧ 4♢ 2♧ 2♡ 7♢ 4♡ T♤ 9♤ | 2
+04:23:50 [INFO] J♢ 2♢ 3♢ 3♤ 6♡ 7♡ 8♧ 5♤ | 3
+04:23:50 [INFO] Q♢ 5♡ 8♤ K♤ Q♡ 9♢ 3♧ 6♢ | 4
+04:23:50 [INFO] 8♡ 8♢ J♧ K♧ 5♢ 9♧ 7♤ A♡ | 5
+04:23:50 [INFO] 6♤ A♢ Q♤ 3♡ A♤ 4♤ K♢ T♢ | 6
+04:23:50 [INFO] 1| 2| 3| 4| 5| 6| 7| 8| -> columnas
+04:23:50 [INFO] 
+Cartas faltantes:
+04:23:50 [INFO] 1: Q♧
+04:23:50 [INFO] 2: 2♤
+04:23:50 [INFO] 3: 6♧
+04:23:50 [INFO] 4: K♡
+04:23:51 [INFO] Has seleccionado la columna 2 para la carta 1 :O

@@ -1,0 +1,1 @@
+C:\Users\vidda\Documents\TEC\Lenguajes\ de\ programacion\prueba\Nestor_Solitaire-main\target\debug\solitaire.exe: C:\Users\vidda\Documents\TEC\Lenguajes\ de\ programacion\prueba\Nestor_Solitaire-main\src\main.rs
